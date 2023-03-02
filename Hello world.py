@@ -77,3 +77,10 @@
 #     print('para is equal to 50 characters')
 # else:
 #     print('less than 50 characters')
+
+
+# has_good_credit = True
+# has_criminal_record = False
+
+# if has_good_credit and not has_criminal_record:
+#     print("Eligible for loan")
