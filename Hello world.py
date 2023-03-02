@@ -68,3 +68,12 @@
 
 # import math
 # print("pi is", math.pi)
+
+# para = "I got up at 4:30 this morning to travel to work..."
+
+# if len(para) > 50:
+#     print('Exceeds word character count')
+# elif len(para) == 50:
+#     print('para is equal to 50 characters')
+# else:
+#     print('less than 50 characters')
